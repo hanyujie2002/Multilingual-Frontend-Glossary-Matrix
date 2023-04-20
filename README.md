@@ -102,3 +102,27 @@ Translation reference for Frontend docs
 | Variables               | 变量               | 変数                    | Variables              | Variables              |
 | Loops                   | 循环               | ループ                  | Bucles                 | Boucles                |
 | Conditionals            | 条件语句           | 条件文                  | Condicionales          | Conditionnelles        |
+| Error Handling          | 错误处理           | エラーハンドリング      | Manejo de errores      | Gestion des erreurs    |
+| Exception               | 异常               | 例外                    | Excepción              | Exception              |
+| Debugging               | 调试               | デバッグ                | Depuración             | Débogage               |
+| Console                 | 控制台             | コンソール              | Consola                | Console                |
+| Logging                 | 日志               | ロギング                | Registro               | Journalisation         |
+| Local Storage           | 本地存储           | ローカルストレージ      | Almacenamiento local   | Stockage local         |
+| Session Storage         | 会话存储           | セッションストレージ    | Almacenamiento de sesión | Stockage de session    |
+| IndexedDB               | IndexedDB          | IndexedDB               | IndexedDB              | IndexedDB              |
+| Cookies                 | Cookies            | クッキー                | Cookies                | Cookies                |
+| Cache                   | 缓存               | キャッシュ              | Caché                  | Cache                  |
+| Cache-Control           | 缓存控制           | キャッシュコントロール  | Control de caché       | Contrôle du cache      |
+| ETag                    | ETag               | ETag                    | ETag                   | ETag                   |
+| Progressive Web App     | 渐进式 Web 应用    | プログレッシブウェブアプリ | Aplicación Web Progresiva | Application Web progressive |
+| Responsive Design       | 响应式设计         | レスポンシブデザイン    | Diseño responsive      | Design responsive      |
+| User Agent              | 用户代理           | ユーザーエージェント    | Agente de usuario      | Agent utilisateur      |
+| MediaQuery              | 媒体查询           | メディアクエリ          | Consulta de medios     | Media Query            |
+| Web Fonts               | Web 字体           | Webフォント             | Fuentes web            | Polices web            |
+| Viewport                | 视口               | ビューポート            | Viewport               | Viewport               |
+| Meta Tags               | 元标签             | メタタグ                | Etiquetas meta         | Balises méta           |
+| Sitemap                 | 网站地图           | サイトマップ            | Mapa del sitio         | Plan du site           |
+| Preprocessor            | 预处理器           | プリプロセッサ          | Preprocesador          | Préprocesseur          |
+| HTML5                   | HTML5              | HTML5                   | HTML5                  | HTML5                  |
+| CSS3                    | CSS3               | CSS3                    | CSS3                   | CSS3                   |
+| Custom Elements         | 自定义元素         | カスタム要素            | Elementos personalizados | Éléments personnalisés |
