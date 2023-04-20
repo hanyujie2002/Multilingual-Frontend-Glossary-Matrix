@@ -53,4 +53,26 @@ Translation reference for Frontend docs
 | Bitbucket               | Bitbucket           | Bitbucket                | Bitbucket              | Bitbucket              |
 | JAMstack                | JAMstack            | JAMstack                 | JAMstack               | JAMstack               |
 | Next.js                 | Next.js             | Next.js                  | Next.js                | Next.js                |
-
+| Gatsby                  | Gatsby              | Gatsby                   | Gatsby                 | Gatsby                 |
+| Nuxt.js                 | Nuxt.js             | Nuxt.js                  | Nuxt.js                | Nuxt.js                |
+| RxJS                    | RxJS                | RxJS                     | RxJS                   | RxJS                   |
+| Redux                   | Redux               | Redux                    | Redux                  | Redux                  |
+| MobX                    | MobX                | MobX                     | MobX                   | MobX                   |
+| Electron                | Electron            | Electron                 | Electron               | Electron               |
+| PWA                     | PWA                 | PWA                      | PWA                    | PWA                    |
+| WebAssembly             | WebAssembly         | WebAssembly              | WebAssembly            | WebAssembly            |
+| Browser                 | 浏览器              | ブラウザ                 | Navegador              | Navigateur             |
+| Mobile-first            | 移动优先            | モバイルファースト       | Móvil primero          | Mobile-first           |
+| Cross-browser           | 跨浏览器            | クロスブラウザ           | Multi-navegador        | Multi-navigateur       |
+| Font-end Architecture   | 前端架构            | フロントエンドアーキテクチャ | Arquitectura frontend | Architecture frontend  |
+| Single Page Application | 单页应用程序        | シングルページアプリケーション | Aplicación de una sola página | Application monopage    |
+| Server-side Rendering   | 服务器端渲染        | サーバーサイドレンダリング | Renderizado en el servidor | Rendu côté serveur     |
+| Client-side Rendering   | 客户端渲染          | クライアントサイドレンダリング | Renderizado en el cliente | Rendu côté client      |
+| Testing                 | 测试                | テスト                   | Pruebas                | Tests                  |
+| Unit Test               | 单元测试            | ユニットテスト           | Prueba unitaria        | Test unitaire          |
+| Integration Test        | 集成测试            | インテグレーションテスト | Prueba de integración  | Test d'intégration     |
+| End-to-end Test         | 端到端测试          | エンドツーエンドテスト   | Prueba de extremo a extremo | Test de bout en bout   |
+| Performance             | 性能                | パフォーマンス           | Rendimiento            | Performance            |
+| Optimization            | 优化                | 最適化                   | Optimización           | Optimisation           |
+| Minification            | 压缩                | 最小化                   | Minificación           | Minification           |
+| Compression             | 压缩                | 圧縮                     | Compresión             | Compression            |
