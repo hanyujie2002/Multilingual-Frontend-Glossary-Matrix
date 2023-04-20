@@ -76,3 +76,29 @@ Translation reference for Frontend docs
 | Optimization            | 优化                | 最適化                   | Optimización           | Optimisation           |
 | Minification            | 压缩                | 最小化                   | Minificación           | Minification           |
 | Compression             | 压缩                | 圧縮                     | Compresión             | Compression            |
+| Strings                 | 字符串             | 文字列                  | Cadenas de caracteres  | Chaînes de caractères  |
+| Integer                 | 整数               | 整数                    | Entero                 | Entier                 |
+| List Item               | 列表项             | リストアイテム          | Elemento de lista      | Élément de liste       |
+| Array                   | 数组               | 配列                    | Arreglo                | Tableau                |
+| Object                  | 对象               | オブジェクト            | Objeto                 | Objet                  |
+| Function                | 函数               | 関数                    | Función                | Fonction               |
+| Class                   | 类                 | クラス                  | Clase                  | Classe                 |
+| Inheritance             | 继承               | 継承                    | Herencia               | Héritage               |
+| Encapsulation           | 封装               | カプセル化              | Encapsulamiento        | Encapsulation          |
+| Polymorphism            | 多态               | 多態性                  | Polimorfismo           | Polymorphisme           |
+| Interface               | 接口               | インターフェイス        | Interfaz               | Interface              |
+| Abstract Class          | 抽象类             | 抽象クラス              | Clase abstracta        | Classe abstraite       |
+| Composition             | 组合               | コンポジション          | Composición            | Composition            |
+| Dependency Injection    | 依赖注入           | 依存性注入              | Inyección de dependencias | Injection de dépendances |
+| Design Patterns         | 设计模式           | デザインパターン        | Patrones de diseño     | Patrons de conception   |
+| Model                   | 模型               | モデル                  | Modelo                 | Modèle                 |
+| View                    | 视图               | ビュー                  | Vista                  | Vue                    |
+| Controller              | 控制器             | コントローラー          | Controlador            | Contrôleur             |
+| Template                | 模板               | テンプレート            | Plantilla              | Modèle                 |
+| Event                   | 事件               | イベント                | Evento                 | Événement              |
+| Callback                | 回调               | コールバック            | Retrollamada           | Callback               |
+| Promise                 | Promise            | Promise                 | Promesa                | Promesse               |
+| Async/Await             | 异步/等待          | 非同期/待機             | Async/Await            | Async/Await            |
+| Variables               | 变量               | 変数                    | Variables              | Variables              |
+| Loops                   | 循环               | ループ                  | Bucles                 | Boucles                |
+| Conditionals            | 条件语句           | 条件文                  | Condicionales          | Conditionnelles        |
