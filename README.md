@@ -126,3 +126,26 @@ Translation reference for Frontend docs
 | HTML5                   | HTML5              | HTML5                   | HTML5                  | HTML5                  |
 | CSS3                    | CSS3               | CSS3                    | CSS3                   | CSS3                   |
 | Custom Elements         | 自定义元素         | カスタム要素            | Elementos personalizados | Éléments personnalisés |
+| Shadow DOM              | Shadow DOM         | Shadow DOM              | Shadow DOM             | Shadow DOM             |
+| Virtual DOM             | 虚拟 DOM           | 仮想 DOM                | DOM virtual            | DOM virtuel            |
+| Web Components          | Web 组件          | Webコンポーネント      | Componentes Web        | Composants Web         |
+| Data Binding            | 数据绑定           | データバインディング    | Enlace de datos        | Liaison de données     |
+| Two-way Data Binding    | 双向数据绑定       | 双方向データバインディング | Enlace de datos bidireccional | Liaison de données bidirectionnelle |
+| One-way Data Binding    | 单向数据绑定       | 単方向データバインディング | Enlace de datos unidireccional | Liaison de données unidirectionnelle |
+| AJAX                    | AJAX               | AJAX                    | AJAX                   | AJAX                   |
+| Fetch API               | Fetch API          | Fetch API               | Fetch API              | Fetch API              |
+| FormData                | FormData           | FormData                | FormData               | FormData               |
+| Webpack                 | Webpack            | Webpack                 | Webpack                | Webpack                |
+| Babel                   | Babel              | Babel                   | Babel                  | Babel                  |
+| Gulp                    | Gulp               | Gulp                    | Gulp                   | Gulp                   |
+| Grunt                   | Grunt              | Grunt                   | Grunt                  | Grunt                  |
+| SASS                    | SASS               | SASS                    | SASS                   | SASS                   |
+| LESS                    | LESS               | LESS                    | LESS                   | LESS                   |
+| Stylus                  | Stylus             | Stylus                  | Stylus                 | Stylus                 |
+| PostCSS                 | PostCSS            | PostCSS                 | PostCSS                | PostCSS                |
+| SVG Animation           | SVG 动画          | SVGアニメーション       | Animación SVG          | Animation SVG          |
+| Web Animations API      | Web 动画 API      | Webアニメーション API   | API de animaciones Web | API Web Animations     |
+| Transition              | 过渡               | トランジション          | Transición             | Transition             |
+| Transform               | 变换               | 変換                    | Transformación         | Transformation         |
+| Keyframes               | 关键帧             | キーフレーム            | Fotogramas clave       | Images clés            |
+| Animation Timing        | 动画时序           | アニメーションタイミング | Temporización de animación | Chronométrage d'animation |
