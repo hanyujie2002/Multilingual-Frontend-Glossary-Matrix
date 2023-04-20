@@ -149,3 +149,25 @@ Translation reference for Frontend docs
 | Transform               | 变换               | 変換                    | Transformación         | Transformation         |
 | Keyframes               | 关键帧             | キーフレーム            | Fotogramas clave       | Images clés            |
 | Animation Timing        | 动画时序           | アニメーションタイミング | Temporización de animación | Chronométrage d'animation |
+| Flexbox                 | 弹性盒子           | フレックスボックス      | Flexbox                | Flexbox                |
+| Grid Layout             | 网格布局           | グリッドレイアウト      | Diseño de cuadrícula   | Mise en page de grille |
+| Float                   | 浮动               | フロート                | Flotar                 | Flottant               |
+| Box Model               | 盒模型             | ボックスモデル          | Modelo de caja         | Modèle de boîte        |
+| Positioning             | 定位               | 位置決め                | Posicionamiento        | Positionnement         |
+| z-index                 | z-index            | z-index                 | z-index                | z-index                |
+| Responsive Images       | 响应式图像         | レスポンシブ画像        | Imágenes responsivas   | Images adaptatives     |
+| Accessibility           | 可访问性           | アクセシビリティ        | Accesibilidad          | Accessibilité          |
+| ARIA                    | ARIA               | ARIA                    | ARIA                   | ARIA                   |
+| SEO                     | SEO                | SEO                     | SEO                    | SEO                    |
+| Semantic HTML           | 语义化 HTML        | セマンティックHTML      | HTML semántico         | HTML sémantique        |
+| Web Performance         | 网页性能           | Webパフォーマンス       | Rendimiento web        | Performance web        |
+| Critical Rendering Path | 关键渲染路径       | クリティカルレンダリングパス | Ruta crítica de renderizado | Chemin critique de rendu |
+| Progressive Enhancement | 渐进增强           | プログレッシブエンハンスメント | Mejora progresiva     | Amélioration progressive |
+| Graceful Degradation    | 优雅降级           | グレースフルデグラデーション | Degradación elegante  | Dégâdation gracieuse   |
+| CORS                    | 跨域资源共享       | CORS                    | CORS                   | CORS                   |
+| Same-origin Policy      | 同源策略           | 同一オリジンポリシー    | Política de mismo origen | Politique de même origine |
+| Content Security Policy | 内容安全策略       | コンテンツセキュリティポリシー | Política de seguridad de contenido | Politique de sécurité du contenu |
+| Web Workers             | Web Workers        | Web Workers             | Web Workers            | Web Workers            |
+| Service Workers         | Service Workers    | Service Workers         | Service Workers        | Service Workers        |
+| Web Sockets             | Web Sockets        | Web Sockets             | Web Sockets            | Web Sockets            |
+| WebRTC                  | WebRTC             | WebRTC                  | WebRTC                 | WebRTC                 |
