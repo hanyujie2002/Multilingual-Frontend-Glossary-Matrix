@@ -171,3 +171,25 @@ Translation reference for Frontend docs
 | Service Workers         | Service Workers    | Service Workers         | Service Workers        | Service Workers        |
 | Web Sockets             | Web Sockets        | Web Sockets             | Web Sockets            | Web Sockets            |
 | WebRTC                  | WebRTC             | WebRTC                  | WebRTC                 | WebRTC                 |
+| Geolocation             | 地理位置           | ジオロケーション        | Geolocalización        | Géolocalisation        |
+| Notifications API       | 通知 API          | 通知 API                | API de notificaciones  | API de notifications   |
+| Media Queries           | 媒体查询           | メディアクエリ          | Consultas de medios    | Media Queries          |
+| Pointer Events          | 指针事件           | ポインターイベント      | Eventos de puntero     | Événements de pointeur |
+| Touch Events            | 触摸事件           | タッチイベント          | Eventos táctiles       | Événements tactiles    |
+| Device Orientation      | 设备方向           | デバイスオリエンテーション | Orientación del dispositivo | Orientation de l'appareil |
+| FileReader API          | FileReader API     | FileReader API          | FileReader API         | FileReader API         |
+| Blob                    | Blob               | Blob                    | Blob                   | Blob                   |
+| ArrayBuffer             | ArrayBuffer        | ArrayBuffer             | ArrayBuffer            | ArrayBuffer            |
+| Typed Arrays            | 类型化数组         | Typed Arrays            | Arrays tipados         | Tableaux typés         |
+| WebAssembly             | WebAssembly        | WebAssembly             | WebAssembly            | WebAssembly            |
+| WebXR                   | WebXR              | WebXR                   | WebXR                  | WebXR                  |
+| WebGL                   | WebGL              | WebGL                   | WebGL                  | WebGL                  |
+| Canvas                  | 画布               | キャンバス              | Lienzo                 | Toile                  |
+| SVG                     | SVG                | SVG                     | SVG                    | SVG                    |
+| XMLHttpRequest          | XMLHttpRequest     | XMLHttpRequest          | XMLHttpRequest         | XMLHttpRequest         |
+| Microdata               | 微数据             | マイクロデータ          | Microdatos             | Microdonnées           |
+| RDFa                    | RDFa               | RDFa                    | RDFa                   | RDFa                   |
+| JSON-LD                 | JSON-LD            | JSON-LD                 | JSON-LD                | JSON-LD                |
+| Web Vitals              | Web Vitals         | Web Vitals              | Web Vitals             | Web Vitals             |
+| Lighthouse              | Lighthouse         | Lighthouse              | Lighthouse             | Lighthouse             |
+| PageSpeed Insights      | PageSpeed Insights | PageSpeed Insights      | PageSpeed Insights     | PageSpeed Insights     |
